@@ -1,7 +1,7 @@
 
-# 🖥️ AV1 - Projeto Web
+# 🖥️ AV1 - Lucas Web Solutions
 
-Este é um projeto de site estático, desenvolvido como parte de uma avaliação acadêmica. Utiliza HTML5 e CSS3, com imagens incorporadas diretamente da internet.
+Este é um projeto de site estático, desenvolvido utilizando HTML e CSS para criar uma estrutura moderna e responsiva.
 
 ## 📂 Estrutura do Projeto
 
@@ -9,6 +9,7 @@ Este é um projeto de site estático, desenvolvido como parte de uma avaliação
 AV1/
 ├── index.html
 ├── sobre.html
+├── readme.md
 ├── contato.html
 └── css/
     └── style.css
